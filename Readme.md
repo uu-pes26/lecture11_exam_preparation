@@ -16,7 +16,7 @@ In order to work with this presentation, a few things need to be installed:
 In order to clone this repository do the following: 
 
 ```bash 
-git clone --recursive https://github.com/uu-1dt106/lecture11_exam_preparation.git 
+git clone --recursive https://github.com/uu-pes26/lecture11_exam_preparation.git 
 ```
 
 ## Export slides to PDF 
